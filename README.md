@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vetrivendhan B</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=Lead-Developer;Software+Engineer;Full-stack+developer;Web+and+mobile+app+developer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=Software+Engineer;Full-stack+developer;Web+and+mobile+app+developer;Problem+Solver)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working at [Lumel](https://lumel.com/)
 
