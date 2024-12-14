@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vetrivendhan B</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=Software+Engineer;Full-stack+developer;Web+and+mobile+app+developer;Team+Leader;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=4000&color=F7F7F7&height=30&lines=Lead-Developer;Software+Engineer;Full-stack+developer;Web+and+mobile+app+developer;Problem+Solver)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working at [Lumel](https://lumel.com/)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/vetrivendhan-b-383348125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vetrivendhan-b-383348125" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vetrivendhan-b-383348125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vetrivendhan-b-383348125" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
